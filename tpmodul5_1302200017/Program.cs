@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Diagnostics.Contracts;
 
-namespace tpmod5
+namespace tpmodul5_1302200017
 {
     internal class Program
     {
